@@ -1,4 +1,4 @@
-# 🌍📊 Insurance4Africa
+# 🛡️Insurance4Africa 🌍
 
 ## Project Identification
 
