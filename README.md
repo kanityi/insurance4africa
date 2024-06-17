@@ -38,6 +38,8 @@ To address these challenges, our project will:
 
 Through this data-driven exploration, we aim to enhance insurance uptake and contribute to financial empowerment across Africa. 🌟
 
+---
+
 ### 📅 Project Timeline
 
 | Phase                            | Description                                       | Estimated Time |
@@ -49,12 +51,16 @@ Through this data-driven exploration, we aim to enhance insurance uptake and con
 | **Deployment**                   | Implementing and monitoring solutions             | 2 weeks        |
 | **Review & Optimization**        | Continuous improvement based on feedback          | Ongoing        |
 
+---
+
 ### 📁 Repository Structure
 
 - **`/data`**: Raw and cleaned data files.
 - **`/notebooks`**: Jupyter notebooks for data exploration and analysis.
 - **`/dashboards`**: Power BI files and visualizations.
 - **`/docs`**: Project documentation, including `Insurance4Africa-presentaion.pptx` and `PLANNING.md`.
+
+---
 
 ### 🛠️ Tools & Technologies
 
