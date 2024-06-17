@@ -12,7 +12,7 @@ Our mission is to unlock this potential by delving deep into the insurance lands
 
 ---
 
-### 2. Defining a Problem Statement 🧩
+### 2. Problem Statement 🧩
 
 #### The Dilemma of Insurance in Africa
 
@@ -37,6 +37,31 @@ To address these challenges, our project will:
 3. **Target Effectively** 🎯: Use data analytics to pinpoint and engage potential customers efficiently.
 
 Through this data-driven exploration, we aim to enhance insurance uptake and contribute to financial empowerment across Africa. 🌟
+
+### 📅 Project Timeline
+
+| Phase                            | Description                                       | Estimated Time |
+|----------------------------------|---------------------------------------------------|----------------|
+| **Data Collection & Preparation**| Gathering and cleaning data                       | 2 weeks        |
+| **Initial EDA**                  | Exploratory data analysis and insights            | 1 week         |
+| **Dashboard Creation**           | Developing Power BI dashboards                    | 2 weeks        |
+| **Model Development**            | Creating analytical models                        | 3 weeks        |
+| **Deployment**                   | Implementing and monitoring solutions             | 2 weeks        |
+| **Review & Optimization**        | Continuous improvement based on feedback          | Ongoing        |
+
+### 📁 Repository Structure
+
+- **`/data`**: Raw and cleaned data files.
+- **`/notebooks`**: Jupyter notebooks for data exploration and analysis.
+- **`/dashboards`**: Power BI files and visualizations.
+- **`/docs`**: Project documentation, including `Insurance4Africa-presentaion.pptx` and `PLANNING.md`.
+
+### 🛠️ Tools & Technologies
+
+- **GitHub**: Version control and project management.
+- **Skyvia**: Data integration and ETL processes.
+- **Python**: Data analysis and visualization.
+- **Power BI**: Dashboard creation and data visualization.
 
 ---
 
