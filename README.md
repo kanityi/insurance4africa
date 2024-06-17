@@ -44,12 +44,5 @@ Through this data-driven exploration, we aim to enhance insurance uptake and con
 
 ---
 
-**References:**
-
-- [Statista - Insurance Premiums in Africa](https://www.statista.com/statistics/882951/insurance-premium-volumes-by-region/)
-- [Statista - Insurance Penetration in Africa](https://www.statista.com/statistics/258803/share-of-insurance-premiums-worldwide-by-region/)
-
----
-
 **Let’s make insurance a reality for everyone in Africa!** 🌍💪
 
