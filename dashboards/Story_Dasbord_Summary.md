@@ -1,9 +1,8 @@
-
 # Insurance Analysis Dashboards
 
 ## Dashboard Page 1: Policy Distribution and Claims Analysis
 
-![Dashboard Page 1](Dashboard_Page_1.png)
+![Dashboard Page 1](images/Dashboard_Page_1.png)
 
 ### Story
 
@@ -25,7 +24,7 @@
 
 ## Dashboard Page 2: Fraud Analysis
 
-![Dashboard Page 2](Dashboard_Page_2.png)
+![Dashboard Page 2](images/Dashboard_Page_2.png)
 
 ### Story
 
